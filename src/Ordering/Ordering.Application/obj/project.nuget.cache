@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "xLnwLeQSzaOQCL1hGSroO5/f1UH8RjSVVhSgClGOrL/ieSeYk981jC1hFE0L5cXmn5I25FkwEGCGt3UIGN8ijA==",
+  "success": true,
+  "projectFilePath": "/Users/kaanaydemir/Desktop/MicroServicesProject/src/Ordering/Ordering.Application/Ordering.Application.csproj",
+  "expectedPackageFiles": [
+    "/Users/kaanaydemir/.nuget/packages/automapper/10.1.1/automapper.10.1.1.nupkg.sha512",
+    "/Users/kaanaydemir/.nuget/packages/fluentvalidation/9.3.0/fluentvalidation.9.3.0.nupkg.sha512",
+    "/Users/kaanaydemir/.nuget/packages/mediatr/9.0.0/mediatr.9.0.0.nupkg.sha512",
+    "/Users/kaanaydemir/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
+    "/Users/kaanaydemir/.nuget/packages/system.reflection.emit/4.7.0/system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{A0EDCB06-06F8-439B-A2ED-6AECC7C669BB}|Default">
+  <MonoDevelop.Ide.ItemProperties.src.Catalog.API PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Microservices" expanded="True" selected="True">
+            <Node name="src" expanded="True" />
+            <Node name="docker-compose" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.src.Basket.API PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/kaanaydemir/Desktop/MicroServices/src/Ordering/Ordering.API/RabbitMQ/EventBusRabbitMQConsumer.cs" line="46" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

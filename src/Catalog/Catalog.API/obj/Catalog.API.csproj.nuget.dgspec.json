@@ -1,0 +1,77 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/kaanaydemir/Desktop/MicroServicesProject/src/Catalog/Catalog.API/Catalog.API.csproj": {}
+  },
+  "projects": {
+    "/Users/kaanaydemir/Desktop/MicroServicesProject/src/Catalog/Catalog.API/Catalog.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/kaanaydemir/Desktop/MicroServicesProject/src/Catalog/Catalog.API/Catalog.API.csproj",
+        "projectName": "Catalog.API",
+        "projectPath": "/Users/kaanaydemir/Desktop/MicroServicesProject/src/Catalog/Catalog.API/Catalog.API.csproj",
+        "packagesPath": "/Users/kaanaydemir/.nuget/packages/",
+        "outputPath": "/Users/kaanaydemir/Desktop/MicroServicesProject/src/Catalog/Catalog.API/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/kaanaydemir/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.10.8, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.11.4, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

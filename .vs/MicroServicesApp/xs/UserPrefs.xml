@@ -1,0 +1,39 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MicroServicesApp" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>src/Ordering.API/Ordering.Core/Ordering.Core.csproj</String>
+    <String>src/Ordering.API/Ordering.Infrastructure/Ordering.Infrastructure.csproj</String>
+    <String>src/Ordering.API/Ordering.API.csproj</String>
+    <String>docker-compose.dcproj</String>
+    <String>src/Order/Ordering.API/Ordering.API.csproj</String>
+    <String>src/Order/Ordering.Infrastructure/Ordering.Infrastructure.csproj</String>
+    <String>src/Order/Ordering.Core/Ordering.Core.csproj</String>
+    <String>src/Order/Ordering.Application/Ordering.Application.csproj</String>
+    <String>src/Basket.API/Basket.API.csproj</String>
+    <String>src/Common/EventBusRabbitMq/EventBusRabbitMq.csproj</String>
+    <String>src/Catalog.API/Catalog.API.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/kaanaydemir/Desktop/MicroServices/src/Catalog.API/Repositories/ProductRepository.cs" relfile="src/Catalog.API/Repositories/ProductRepository.cs" line="73" column="1" />
+      <Breakpoint file="/Users/kaanaydemir/Desktop/MicroServices/src/Basket.API/Controllers/BasketController.cs" relfile="src/Basket.API/Controllers/BasketController.cs" line="60" column="1" />
+      <Breakpoint file="/Users/kaanaydemir/Desktop/MicroServices/src/Ordering.API/Ordering.Infrastructure/Data/OrderContextSeed.cs" relfile="src/Ordering.API/Ordering.Infrastructure/Data/OrderContextSeed.cs" line="20" column="1" />
+      <Breakpoint file="/Users/kaanaydemir/Desktop/MicroServices/src/Ordering.API/Program.cs" relfile="src/Ordering.API/Program.cs" line="18" column="1" />
+      <Breakpoint file="/Users/kaanaydemir/Desktop/MicroServices/src/Order/Ordering.API/Controllers/OrderController.cs" relfile="src/Order/Ordering.API/Controllers/OrderController.cs" line="28" column="1" />
+      <Breakpoint file="/Users/kaanaydemir/Desktop/MicroServices/src/Order/Ordering.API/Controllers/OrderController.cs" relfile="src/Order/Ordering.API/Controllers/OrderController.cs" line="39" column="1" />
+      <Breakpoint file="/Users/kaanaydemir/Desktop/MicroServices/src/Order/Ordering.Application/Handlers/GetOrderByUserNameHandler.cs" relfile="src/Order/Ordering.Application/Handlers/GetOrderByUserNameHandler.cs" line="24" column="1" />
+      <Breakpoint file="/Users/kaanaydemir/Desktop/MicroServices/src/Order/Ordering.Application/Handlers/CheckoutOrderHandler.cs" relfile="src/Order/Ordering.Application/Handlers/CheckoutOrderHandler.cs" line="23" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
